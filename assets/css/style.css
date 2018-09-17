@@ -1,0 +1,11 @@
+ #train-table th,
+    td {
+      display: inline-block;
+      width: 20%;
+    }
+#trainHeader {
+    background-image: url("../images/Hogwarts.jpg");
+    background-position: center;
+    color: #e7e4e4;
+
+}
